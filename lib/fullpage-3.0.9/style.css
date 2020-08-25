@@ -211,13 +211,18 @@
         }
         
         .read-more,
-        .read-more-last {
+        .read-more-schedule,
+        .read-more-email {
             margin-top: 50px;
             display: block;
             color: #ff0000b0;
         }
         
-        .read-more-last {
+        .read-more {
+            display: none;
+        }
+        
+        .read-more-email {
             margin-top: 10px;
         }
         
